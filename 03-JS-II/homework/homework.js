@@ -155,10 +155,11 @@ function operadoresLogicos(num1, num2, num3) {
     return "Hay negativos";
   } else if (num3  > num2 && num3 > num1) {
     return num3 + 1;
-  } else (num1  > num2 && num1 > num3 && num1 > 0) {
+  } else (num1  > num2 && num1 > num3 && num1 > 0);{
     return "Número 1 es mayor y positivo";
   }
 }
+
 
 function esPrimo(numero) {
   // Devuelve "true" si "numero" es primo
