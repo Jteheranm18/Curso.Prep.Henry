@@ -58,7 +58,5 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 #ejercicioSiete {
     display: flex;
     justify-content: space-between;
-    align-items: stretch;
     flex-direction: column-reverse;
-
 }
