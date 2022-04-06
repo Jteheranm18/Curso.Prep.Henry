@@ -15,7 +15,7 @@ const {
   tablaDelSeis,
   tieneTresDigitos,
   doWhile
-} = require('../homework.js');
+} = require('../homework');
 
 
 describe('obtenerMayor(x, y)', function() {
